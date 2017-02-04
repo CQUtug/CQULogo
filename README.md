@@ -2,6 +2,7 @@
 
 # CQULogo
 [![License](https://img.shields.io/badge/License-careful-blue.svg)](https://github.com/CQUtug/CQULogo#授权许可和责任豁免) [![GitHub stars](https://img.shields.io/github/stars/CQUtug/CQULogo.svg?style=social)](https://github.com/CQUtug/CQULogo/stargazers)
+
 CQULogo是重庆大学视觉标识的非官方素材包，包含多种颜色，多个格式（矢量、栅格）的重庆大学校徽和校名的去背图片（图形），还原忠实，合规性好，用于满足学校师生对高质量重庆大学校徽校名图片的需求。
 
 CQULogo的设计用于满足以下场景对重庆大学校徽和校名的标识需求：
