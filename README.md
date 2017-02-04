@@ -46,6 +46,11 @@ CQULogo提供的校名颜色与以上校徽颜色对应（蓝色渐变未提供�
 | Print 100mm | 用于打印，设定的实际图形大小介于50mm~100mm. |
 | Screen | 用于屏幕显示或投影，如用在演讲用的PowerPoint文档中。 |
 
+# 下载地址和相关链接
+
+* [点我下载](https://github.com/CQUtug/CQULogo/archive/master.zip)
+* 加入[重庆大学TeX用户组](http://jq.qq.com/?_wv=1027&k=2HvYu95)
+
 
 # 授权许可和责任豁免
 
