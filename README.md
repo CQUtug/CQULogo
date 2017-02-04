@@ -1,7 +1,7 @@
 ![CQULogo-重庆大学视觉标识的非官方素材包](https://github.com/CQUtug/CQULogo/raw/master/title.png)
 
 # CQULogo
-[![License](https://img.shields.io/badge/License-careful-blue.svg)](https://github.com/CQUtug/CQULogo#授权许可和责任豁免) [![GitHub stars](https://img.shields.io/github/stars/CQUtug/CQULogo.svg?style=social)](https://github.com/CQUtug/CQULogo/stargazers)
+[![License](https://img.shields.io/badge/License-careful-blue.svg)](https://github.com/CQUtug/CQULogo#授权许可和责任豁免) [![GitHub stars](https://img.shields.io/github/stars/CQUtug/CQULogo.svg?style=social)](https://github.com/CQUtug/CQULogo/stargazers) [手机用户介绍点我](https://github.com/CQUtug/CQULogo/blob/master/README.md)
 
 **CQULogo**是重庆大学视觉标识的非官方素材包，包含多种颜色，多个格式（矢量、栅格）的重庆大学校徽和校名的去背图片（图形），还原忠实，合规性好，用于满足学校师生对高质量重庆大学校徽校名图片的需求。
 
@@ -25,7 +25,7 @@ CQULogo提供以下颜色的校徽：
 
 CQULogo提供的校名颜色与以上校徽颜色对应（蓝色渐变未提供），校名有含英文和不含英文两个版本：
 
-| 校名类型 | 示例（*-screen.png） |
+| 校名类型 | 示例（`*-screen.png`） |
 |:--------:|:--------------------:|
 | 含英文 | ![重庆大学校名毛笔字-含英文](https://github.com/CQUtug/CQULogo/raw/master/%E8%93%9D%E8%89%B2/%E6%A0%A1%E5%90%8D%EF%BC%88%E8%93%9D%E8%89%B2%E5%B8%A6%E8%8B%B1%E6%96%87%EF%BC%89-Screen.png) |
 | 不含英文 | ![重庆大学校名毛笔字-不含英文](https://github.com/CQUtug/CQULogo/raw/master/%E8%93%9D%E8%89%B2/%E6%A0%A1%E5%90%8D%EF%BC%88%E8%93%9D%E8%89%B2%EF%BC%89-Screen.png) |
